@@ -1,0 +1,5 @@
+POST   /cursos
+GET    /cursos
+GET    /cursos/{id}
+PUT    /cursos/{id}
+DELETE /cursos/{id}
