@@ -7,13 +7,13 @@ API simples para gerenciamento de cursos utilizando Flask e JSON como banco de d
 ## 🚀 Como executar
 
 1. Instale o Flask:
--pip install flask
+- pip install flask
 
 2. Execute o projeto:
--python app.py
+- python app.py
 
 3. Acesse:
--http://127.0.0.1:5000
+- http://127.0.0.1:5000
 
 ## 📌 Endpoints
 
