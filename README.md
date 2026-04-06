@@ -13,8 +13,8 @@ pip install flask
 2. Execute o projeto:
 ---
 python app.py
-.
-4. Acesse:
+
+3. Acesse:
 ---
 http://127.0.0.1:5000
 
