@@ -6,7 +6,7 @@ API simples para gerenciamento de cursos utilizando Flask e JSON como banco de d
 
 ## 🚀 Como executar
 
-1. Instale o Flask:
+###1. Instale o Flask:
 ---
 pip install flask
 
