@@ -12,12 +12,12 @@ API simples para gerenciamento de cursos utilizando Flask e JSON como banco de d
 ---
 
 pip install flask
-
+---
 
 
 2. Execute o projeto:
-
 ---
+
 
 python app.py
 
