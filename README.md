@@ -1,34 +1,29 @@
-# API de Músicas
+# API de Cursos com Flask
 
-## Descrição
+## 📌 Descrição
+API simples para gerenciamento de cursos utilizando Flask e JSON como banco de dados.
 
-API simples feita com Flask para cadastrar, listar, atualizar e excluir músicas usando um arquivo JSON.
+## 🚀 Como executar
 
----
-
-## Como rodar
-
-Instale o Flask:
-
-```
+1. Instale o Flask:
 pip install flask
-```
 
-Execute o projeto:
-
-```
+2. Execute o projeto:
 python app.py
-```
 
-Acesse:
-
-```
+3. Acesse:
 http://127.0.0.1:5000
-```
 
----
+## 📌 Endpoints
 
+- POST /cursos
+- GET /cursos
+- GET /cursos/{id}
+- PUT /cursos/{id}
+- DELETE /cursos/{id}
 
-Os dados ficam no arquivo `musicas.json`.
+## 🧪 Testes
+
+Recomenda-se usar o Postman ou Insomnia.
 
 *Não sei se funciona 100%*
